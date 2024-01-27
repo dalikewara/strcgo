@@ -20,7 +20,7 @@ go get github.com/dalikewara/strcgo
 ### Usage
 
 You can check all available helper functions through the related files above (`get.go`, etc).
-For example, if you want to get tag value from e struct field, you can do like this:
+For example, if you want to get tag value from a struct field, you can do like this:
 
 ```go
 type s struct {
